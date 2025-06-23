@@ -1,0 +1,14 @@
+{
+    "_readme": ["This is a simulated composer.lock for ext-pdo_sqlite"],
+    "packages": [],
+    "packages-dev": [],
+    "platform": {
+        "ext-pdo_sqlite": "*"
+    },
+    "platform-dev": [],
+    "content-hash": "simulated",
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false
+}
